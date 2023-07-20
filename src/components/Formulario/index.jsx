@@ -56,6 +56,8 @@ const Formulario = () => {
               <option value="CR">Costa Rica</option>
               <option value="ES">España</option>
               <option value="PE">Perú</option>
+              <option value="IT">Italia</option>
+              
             </select>
           </div>
           <button className="text-center text-white font-bold uppercase bg-blue-800 w-full px-8 py-2">
