@@ -57,6 +57,7 @@ const Formulario = () => {
               <option value="ES">España</option>
               <option value="PE">Perú</option>
               <option value="IT">Italia</option>
+              <option value="CU">Cuba</option>
               
             </select>
           </div>
